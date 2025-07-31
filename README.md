@@ -17,7 +17,7 @@
 ### 🚀 **QUICK ACCESS**
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Live_Demo-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://adithya-5134.github.io/)
-[![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1G1otXng68KygUUf5XDcI423iVJYu5Tvh/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1_gwghN-z9uR6AQeJVAMTGE2TAgIGgAZs/view?usp=sharing)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ecadithya12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-e-846b66274)
 
