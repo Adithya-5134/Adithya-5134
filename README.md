@@ -2,7 +2,7 @@
 
 # 🤖 ADITHYA E | AI ENGINEER 🤖
 
-[![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=System.out.println(%22Welcome+to+the+Matrix%22);AI+Engineer+%7C+Machine+Learning+Specialist;Building+Intelligent+Systems+Since+2020;def+create_future():+return+AI())](https://git.io/typing-svg)
+[![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=System.out.println(%22Welcome+to+the+Matrix%22);AI+Engineer+%7C+Machine+Learning+Specialist;Building+Intelligent+Systems+Since+2024;def+create_future():+return+AI())](https://git.io/typing-svg)
 
 </div>
 
