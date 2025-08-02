@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🤖 ADITHYA E | AI ENGINEER 🤖
+<!-- Animated Matrix Background Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITHYA%20E&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20SPECIALIST&descAlignY=51&descAlign=50" />
 
 [![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=System.out.println(%22Welcome+to+the+Matrix%22);AI+Engineer+%7C+Machine+Learning+Specialist;def+create_future():+return+AI();404+Sleep+Not+Found;echo+%22Code.+Sleep.+Repeat.%22)](https://git.io/typing-svg)
 </div>
