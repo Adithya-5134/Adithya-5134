@@ -135,9 +135,9 @@
 
 ### 🏆 **FEATURED AI PROJECTS**
 
-</div>
+</div >
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
