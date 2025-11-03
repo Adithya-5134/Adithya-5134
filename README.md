@@ -7,14 +7,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 [![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=42F7C0&center=true&vCenter=true&width=1000&lines=System.out.println(%22Welcome+to+the+Matrix%22);AI+Engineer+%7C+Machine+Learning+Specialist;def+create_future():+return+AI();404+Sleep+Not+Found;echo+%22Code.+Sleep.+Repeat.%22)](https://git.io/typing-svg)
-</div>
-
-</div>
-
 
 </div>
 
 ---
+
+## 👨‍💻 **ABOUT ME**
 
 <table>
 <tr>
@@ -30,51 +28,99 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ai/)
 
 </td>
+<td width="50%">
+
+### 🎯 **PROFESSIONAL SUMMARY**
+
+AI Engineer with hands-on experience in designing **deep learning** and **LLM-based solutions** for computer vision, natural language processing (NLP), and medical imaging. 
+
+🔹 Skilled in deploying production-ready models on **AWS** using **Docker**  
+🔹 Passionate about developing **RAG-powered AI chatbots**  
+🔹 Focus on context-aware and impactful real-world solutions
+
+**📍 Location:** Chennai, Tamil Nadu, India  
+**🎓 Education:** B.E. Computer Science
+**📞 Contact:** +91 9840530457
+
+</td>
 </tr>
 </table>
 
 ---
 
-🧠 AI ARSENAL & TECH STACK
+## 🧠 **AI ARSENAL & TECH STACK**
+
 <div align="center">
-<table align="center" width="80%">
+
+<table align="center" width="90%">
 <tr>
-<th colspan="3">🛠️ TECHNOLOGY MATRIX 🛠️</th>
+<th colspan="4">🛠️ TECHNOLOGY MATRIX 🛠️</th>
 </tr>
 <tr>
-<th>CORE LANGUAGES</th>
-<th>FRAMEWORKS</th>
-<th>SPECIALIZATIONS</th>
+<th>💻 LANGUAGES</th>
+<th>🤖 ML/DL FRAMEWORKS</th>
+<th>🔧 TOOLS & CLOUD</th>
+<th>🎯 SPECIALIZATIONS</th>
 </tr>
 <tr>
 <td>🐍 Python</td>
 <td>🧠 TensorFlow</td>
+<td>☁️ AWS (EC2, ECR)</td>
 <td>👁️ Computer Vision</td>
 </tr>
 <tr>
 <td>📊 SQL</td>
 <td>🔥 PyTorch</td>
-<td>🗣️ Natural Language Processing</td>
+<td>🐳 Docker</td>
+<td>🗣️ NLP & LLMs</td>
 </tr>
 <tr>
-<td>🛢️ MongoDB</td>
+<td>🌐 HTML/CSS</td>
 <td>⚡ Keras</td>
+<td>🔄 GitHub Actions</td>
 <td>🤖 Deep Learning</td>
 </tr>
 <tr>
-<td>🌐 Git</td>
+<td>📜 Git</td>
 <td>📊 Scikit-learn</td>
-<td>📈 Predictive Analytics</td>
+<td>📓 Jupyter Notebook</td>
+<td>🔍 RAG Systems</td>
 </tr>
 <tr>
 <td></td>
-<td>🐼 Pandas</td>
+<td>🤗 HuggingFace</td>
+<td>🖥️ VS Code</td>
 <td>🎯 Object Detection</td>
 </tr>
 <tr>
 <td></td>
-<td>🔢 NumPy</td>
-<td>📝 Text Classification</td>
+<td>🔗 LangChain</td>
+<td>🐙 Postman</td>
+<td>🏥 Medical Imaging</td>
+</tr>
+<tr>
+<td></td>
+<td>📸 OpenCV</td>
+<td>🛢️ MongoDB</td>
+<td>🚦 Transfer Learning</td>
+</tr>
+<tr>
+<td></td>
+<td>🌐 Streamlit</td>
+<td>🔍 ChromaDB/FAISS</td>
+<td>📊 Data Visualization</td>
+</tr>
+<tr>
+<td></td>
+<td>⚡ FastAPI</td>
+<td>📈 Power BI/Tableau</td>
+<td>🔄 CI/CD Pipeline</td>
+</tr>
+<tr>
+<td></td>
+<td>📝 NLTK/spaCy</td>
+<td>🐋 Docker Hub</td>
+<td>🌊 Embeddings</td>
 </tr>
 </table>
 
@@ -83,30 +129,36 @@
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/DataMites-CDS_Certified-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-<br><sub>Data Science</sub>
+<img src="https://img.shields.io/badge/IBM-AI_Engineering_Specialization-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+<br><sub><a href="#">Specialization</a></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/DataMites-AI_Expert-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<br><sub>AI Engineering</sub>
+<img src="https://img.shields.io/badge/IABAC-AI_Expert-00D9FF?style=for-the-badge&logo=brain&logoColor=white"/>
+<br><sub><a href="#">Certified</a></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/IBM-AI_Engineering-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-<br><sub>Specialization</sub>
+<img src="https://img.shields.io/badge/IABAC-Data_Scientist-EA4335?style=for-the-badge&logo=python&logoColor=white"/>
+<br><sub><a href="#">Certified</a></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/IABAC-Foundation_CDS-F7931E?style=for-the-badge&logo=certificate&logoColor=white"/>
-<br><sub>Foundation</sub>
+<img src="https://img.shields.io/badge/IABAC-CDS_Foundation-F7931E?style=for-the-badge&logo=certificate&logoColor=white"/>
+<br><sub><a href="#">Foundation</a></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/IABAC-Data_Scientist-EA4335?style=for-the-badge&logo=python&logoColor=white"/>
-<br><sub>Certified</sub>
+<img src="https://img.shields.io/badge/DataMites-AI_Expert-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br><sub><a href="#">Course Complete</a></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/IABAC-AI_Expert-00D9FF?style=for-the-badge&logo=brain&logoColor=white"/>
-<br><sub>Expert Level</sub>
+<img src="https://img.shields.io/badge/DataMites-CDS_Certified-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br><sub><a href="#">Course Complete</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<img src="https://img.shields.io/badge/GUVI-DevOps-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<br><sub><a href="#">Certified</a></sub>
 </td>
 </tr>
 </table>
@@ -139,79 +191,135 @@
 
 ### 🏆 **FEATURED AI PROJECTS**
 
-</div >
+</div>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🤖 **Multi-Format Document Chatbot**
-**Description:** AI chatbot for document interaction  
-**Tech Stack:** Python, LangChain, HuggingFace, LLMs  
-**Features:**
-- Multi-format support (PDF, Word, Excel, PPT)
-- Contextual Q&A system
-- Real-time document processing
+### 🤖 **Multiformat Document Chatbot**
+**Description:** AI-powered document assistant with multi-format support  
+**Tech Stack:** Python, LangChain, Streamlit, HuggingFace, LLaMA-3.3, ChromaDB  
 
+**Key Features:**
+- 📄 Multi-format support (PDF, Word, Excel, PPT, Text, HTML, CSV)
+- 🧠 Context-aware responses using RAG
+- 🔍 Optional CrossEncoder re-ranking
+- ⚡ Real-time document processing
+
+**Accuracy:** High-precision retrieval with re-ranking  
 **Status:** ✅ Production Ready
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Multi-Format-Doc-Chat)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Multi-Format-Doc-Chat)
 
-### 👁️ **Retinopathy Detection System**
-**Description:** Medical AI for diabetic retinopathy detection  
-**Tech Stack:** Python, TensorFlow, CNN, Medical Imaging  
-**Features:**
-- Custom CNN architecture
-- Multi-class classification
-- Clinical-grade accuracy
+---
 
+### 🚦 **Traffic Sign Detection**
+**Description:** CNN-based traffic sign classifier with full CI/CD pipeline  
+**Tech Stack:** TensorFlow, Keras, FastAPI, Docker, AWS (EC2/ECR), GitHub Actions  
+
+**Key Features:**
+- 🎯 43-class traffic sign classification
+- 🔄 Automated CI/CD with GitHub Actions
+- 🐳 Dockerized deployment
+- 🔒 Trivy security scanning
+- ⚡ REST API integration
+
+**Accuracy:** 97.2% | **Loss:** 0.13  
+**Status:** ✅ Deployed on AWS
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Traffic-Sign-Detection)
+
+---
+
+### 🫁 **Pneumonia Detection**
+**Description:** Medical AI for pneumonia detection from chest X-rays  
+**Tech Stack:** Python, TensorFlow, Keras, CNNs, Medical Imaging  
+
+**Key Features:**
+- 🏥 CNN-based image classification
+- 📊 Preprocessing and augmentation
+- ⚖️ Dataset balancing techniques
+- 🔬 Reliable medical image analysis
+
+**Accuracy:** 90.38% | **Loss:** 0.27  
 **Status:** ✅ Research Complete
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Retinopathy-Detection)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Pneumonia-Detection)
 
 </td>
 <td width="50%">
 
+### 👁️ **Retinopathy Detection System**
+**Description:** CNN-based diabetic retinopathy detection system  
+**Tech Stack:** Python, TensorFlow, CNNs, FastAPI, Docker, AWS EC2  
+
+**Key Features:**
+- 🏥 Medical-grade accuracy
+- 🔄 Data augmentation (rotation, zoom, brightness)
+- ⚖️ Batch normalization & dropout
+- 🐳 Dockerized FastAPI deployment
+- ☁️ Real-time inference on AWS
+
+**Accuracy:** 84% | **Loss:** 0.41  
+**Status:** ✅ Deployed on AWS
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Retinopathy-Detection)
+
+---
+
+### 🤟 **Indian Sign Language Detection**
+**Description:** CNN for Indian Sign Language alphabet recognition  
+**Tech Stack:** Python, TensorFlow, Keras, Computer Vision  
+
+**Key Features:**
+- 🎯 Alphabet gesture classification
+- 🔄 Advanced data augmentation
+- 📊 High generalization performance
+- 🤖 Reliable gesture recognition
+
+**Accuracy:** 98.04% | **Loss:** 0.06  
+**Status:** ✅ Model Optimized
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Indian-Sign_language-Detection)
+
+---
+
 ### 😴 **Driver Drowsiness Detection**
-**Description:** Real-time fatigue monitoring system  
+**Description:** Real-time driver fatigue monitoring system  
 **Tech Stack:** Python, OpenCV, Dlib, Computer Vision  
-**Features:**
-- Eye aspect ratio monitoring
-- Yawn detection algorithm
-- Real-time audio alerts
+
+**Key Features:**
+- 👁️ Eye aspect ratio monitoring
+- 🥱 Yawn detection algorithm
+- 🔊 Real-time audio alerts
+- ⚡ Live video processing
 
 **Status:** ✅ Deployment Ready
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Driver-Drowsiness-Detection)
-
-### 🚦 **Traffic Sign Recognition**
-**Description:** Autonomous driving assistance system  
-**Tech Stack:** Python, TensorFlow, CNN, GTSRB  
-**Features:**
-- German traffic sign dataset
-- Real-time classification
-- High accuracy performance
-
-**Status:** ✅ Model Optimized
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Traffic-Sign-Detection)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/Adithya-5134/Driver-Drowsiness-Detection)
 
 </td>
 </tr>
 </table>
 
+---
+
+## 💼 **PROFESSIONAL EXPERIENCE**
+
 <div align="center">
 
-### 🔬 **MORE AI INNOVATIONS**
-
-[![Pneumonia Detection](https://img.shields.io/badge/🫁_Pneumonia_Detection-Medical_AI-FF6B35?style=for-the-badge)](https://github.com/Adithya-5134/Pneumonia-Detection)
-[![Sign Language](https://img.shields.io/badge/🤟_Indian_Sign_Language-Accessibility_AI-00D4AA?style=for-the-badge)](https://github.com/Adithya-5134/Indian-Sign_language-Detection)
+### 🏢 **AI Internship** | Rubixe AI Solutions, Bengaluru
+**Oct 2024 – July 2025**
 
 </div>
 
+✅ Built CNN-based retinopathy detection model (84% accuracy, 0.41 loss)  
+✅ Applied dropout, batch normalization, and hyperparameter tuning  
+✅ Deployed on AWS EC2 with FastAPI and Docker for scalable inference  
+✅ Performed data cleaning, balancing, and augmentation techniques
+
 ---
-
-
 
 ## 🌐 **CONNECT WITH THE AI ENGINEER**
 
@@ -227,7 +335,7 @@
 </a>
 </td>
 <td align="center">
-<a href="https://www.linkedin.com/in/adithya-e-846b66274">
+<a href="https://www.linkedin.com/in/adithya-ai/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
