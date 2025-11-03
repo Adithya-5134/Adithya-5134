@@ -35,7 +35,7 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 
 </div>
 
-<div align="center">
+<div style="text-align", align="center">
 
 🔹 Skilled in deploying production-ready models on **AWS** using **Docker**  
 🔹 Passionate about developing **RAG-powered AI chatbots**  
