@@ -18,36 +18,18 @@
 
 ### 🚀 **QUICK ACCESS**
 
-</div>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Live_Demo-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://adithya-5134.github.io/)
 [![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1N_1Niui7pEsERuYNg33dgUYqyWqgFsBs/view?usp=sharing)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ecadithya12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ai/)
 
-</div>
-
-<div align="center">
-
 ### 🎯 **PROFESSIONAL SUMMARY**
 
 </div>
 
-<div align="center">
-
-AI Engineer with hands-on experience in designing **deep learning** and **LLM-based solutions** for computer vision, natural language processing (NLP), and medical imaging.
-
-</div>
-
-<div align="center">
-
-🔹 Skilled in deploying production-ready models on **AWS** using **Docker**  
-🔹 Passionate about developing **RAG-powered AI chatbots**  
-🔹 Focus on context-aware and impactful real-world solutions
-
-</div>
+<p align="justify">
+AI Engineer with hands-on experience in designing <b>deep learning</b> and <b>LLM-based solutions</b> for computer vision, natural language processing (NLP), and medical imaging. Skilled in deploying production-ready models on <b>AWS</b> using <b>Docker</b>. Passionate about developing <b>RAG-powered AI chatbots</b> with a focus on context-aware and impactful real-world solutions.
+</p>
 
 <div align="center">
 
@@ -67,25 +49,13 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 
 #### 💻 **LANGUAGES & VERSION CONTROL**
 
-</div>
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-<div align="center">
-
 #### 🤖 **ML/DL FRAMEWORKS**
-
-</div>
-
-<div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -99,44 +69,20 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-</div>
-
-<div align="center">
-
 #### ☁️ **CLOUD & DEPLOYMENT**
-
-</div>
-
-<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
-<div align="center">
-
 #### 🛢️ **DATABASES**
-
-</div>
-
-<div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-</div>
-
-<div align="center">
-
 #### 📊 **DATA VISUALIZATION & TOOLS**
-
-</div>
-
-<div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -144,15 +90,7 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-<div align="center">
-
 #### 🎯 **SPECIALIZATIONS**
-
-</div>
-
-<div align="center">
 
 Computer Vision • Image Classification • Object Detection  
 Natural Language Processing • LLMs • BERT • GPT  
@@ -168,10 +106,6 @@ Medical Imaging • Predictive Analytics
 <div align="center">
 
 ### 🎖️ **CERTIFICATION ACHIEVEMENTS**
-
-</div>
-
-<div align="center">
 
 [![IBM AI Engineering](https://img.shields.io/badge/IBM-AI_Engineering_Specialization-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](#)
 [![IABAC AI Expert](https://img.shields.io/badge/IABAC-AI_Expert-00D9FF?style=for-the-badge&logo=brain&logoColor=white)](#)
@@ -190,10 +124,6 @@ Medical Imaging • Predictive Analytics
 <div align="center">
 
 ## 📊 **GITHUB INTELLIGENCE DASHBOARD**
-
-</div>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
@@ -217,9 +147,7 @@ Medical Imaging • Predictive Analytics
 
 ### 🏆 **FEATURED AI PROJECTS**
 
-</div>
-
-<div align="center">
+<br>
 
 ### 🤖 **1. Multiformat Document Chatbot**
 
@@ -229,20 +157,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-📄 Multi-format support (PDF, Word, Excel, PPT, Text, HTML, CSV)  
-🧠 Context-aware responses using RAG  
-🔍 Optional CrossEncoder re-ranking (cross-encoder/ms-marco-MiniLM-L-6-v2)  
-⚡ Real-time document processing with HuggingFaceEmbeddings
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Multi-format support for PDF, Word, Excel, PPT, Text, HTML, and CSV files with context-aware responses using Retrieval-Augmented Generation (RAG). Features optional CrossEncoder re-ranking using cross-encoder/ms-marco-MiniLM-L-6-v2 model for improved accuracy. Includes real-time document processing powered by HuggingFace embeddings for efficient semantic search and retrieval.
+</p>
 
 <div align="center">
 
@@ -264,22 +181,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-🎯 43-class traffic sign classification (GTSRB Dataset)  
-🔄 Automated CI/CD with GitHub Actions  
-🐳 Dockerized deployment with health checks  
-🔒 Trivy security scanning & vulnerability checks  
-⚡ REST API integration with FastAPI  
-🧪 PyTest testing & Flake8 linting
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Comprehensive 43-class traffic sign classification system trained on the GTSRB Dataset with automated CI/CD pipeline using GitHub Actions. Features Dockerized deployment with integrated health checks, Trivy security scanning for vulnerability detection, and REST API integration using FastAPI. Includes comprehensive testing with PyTest and code quality checks using Flake8 linting for production-ready deployment.
+</p>
 
 <div align="center">
 
@@ -302,22 +206,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-🏥 Medical-grade accuracy for retinopathy detection  
-🔄 Data augmentation (rotation, zoom, brightness adjustment)  
-⚖️ Batch normalization & dropout for reliability  
-📊 One-hot encoding & data balancing  
-🐳 Dockerized FastAPI deployment  
-☁️ Real-time inference on AWS EC2 with monitoring
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Medical-grade accuracy system for diabetic retinopathy detection using advanced CNN architectures. Implements comprehensive data augmentation techniques including rotation, zoom, and brightness adjustments. Features batch normalization and dropout layers for improved model reliability and generalization. Includes one-hot encoding and data balancing strategies. Deployed as a Dockerized FastAPI application on AWS EC2 with real-time inference capabilities and monitoring.
+</p>
 
 <div align="center">
 
@@ -340,20 +231,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-🏥 CNN-based image classification for chest X-rays  
-📊 Advanced preprocessing and augmentation techniques  
-⚖️ Dataset balancing to handle class imbalance  
-🔬 Reliable and scalable medical image analysis
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Advanced CNN-based image classification system specifically designed for chest X-ray analysis. Implements sophisticated preprocessing and augmentation techniques to enhance model performance. Features comprehensive dataset balancing strategies to handle class imbalance effectively. Provides reliable and scalable medical image analysis with high accuracy for clinical applications.
+</p>
 
 <div align="center">
 
@@ -376,20 +256,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-🎯 Alphabet gesture classification  
-🔄 Advanced data augmentation (rotation, zoom)  
-📊 High generalization performance  
-🤖 Reliable gesture recognition system
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Specialized alphabet gesture classification system for Indian Sign Language recognition. Implements advanced data augmentation techniques including rotation and zoom for improved model generalization. Achieves exceptional performance with high accuracy and minimal loss. Provides reliable gesture recognition capabilities suitable for real-world applications in accessibility technology.
+</p>
 
 <div align="center">
 
@@ -412,20 +281,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-**Key Features:**
-
-</div>
-
-<div align="center">
-
-👁️ Eye aspect ratio (EAR) monitoring  
-🥱 Yawn detection algorithm  
-🔊 Real-time audio alerts  
-⚡ Live video processing with facial landmarks
-
-</div>
+<p align="justify">
+<b>Key Features:</b> Real-time monitoring system utilizing Eye Aspect Ratio (EAR) measurement for drowsiness detection. Features advanced yawn detection algorithm to identify fatigue indicators. Implements real-time audio alert system to warn drivers of dangerous drowsiness levels. Utilizes live video processing with facial landmark detection for accurate and responsive monitoring in real-world driving conditions.
+</p>
 
 <div align="center">
 
@@ -446,15 +304,9 @@ Medical Imaging • Predictive Analytics
 
 </div>
 
-<div align="center">
-
-✅ Built CNN-based retinopathy detection model achieving **84% accuracy** and **0.41 test loss**  
-✅ Applied dropout, batch normalization, and hyperparameter tuning for improved reliability  
-✅ Deployed model on **AWS EC2** using **FastAPI** with REST API integration  
-✅ Containerized solution with **Docker** for scalable real-time inference  
-✅ Performed data cleaning, balancing, and augmentation (rotation, zoom, brightness) for better generalization
-
-</div>
+<p align="justify">
+Developed and deployed a CNN-based retinopathy detection model achieving 84% accuracy with 0.41 test loss. Applied advanced regularization techniques including dropout and batch normalization, along with comprehensive hyperparameter tuning for improved model reliability. Successfully deployed the model on AWS EC2 using FastAPI with full REST API integration. Containerized the entire solution using Docker for scalable real-time inference. Performed extensive data preprocessing including cleaning, balancing, and augmentation techniques such as rotation, zoom, and brightness adjustment to improve model generalization capabilities.
+</p>
 
 ---
 
@@ -464,39 +316,19 @@ Medical Imaging • Predictive Analytics
 
 ### 💡 **"Transforming ideas into intelligent solutions, one algorithm at a time"**
 
-</div>
-
-<div align="center">
-
 [![Email](https://img.shields.io/badge/📧_Email-Let's_Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecadithya12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ai/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithya-5134)
 [![Phone](https://img.shields.io/badge/📱_Phone-Direct_Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919840530457)
 
-</div>
-
-<div align="center">
-
 ### 🏆 **GITHUB ACHIEVEMENTS**
-
-</div>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Adithya-5134&theme=synthwave&no-frame=true&no-bg=true&margin-w=4">
   <img src="https://github-profile-trophy.vercel.app/?username=Adithya-5134&theme=synthwave&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </picture>
 
-</div>
-
-<div align="center">
-
 ### 🐍 **CONTRIBUTION SNAKE**
-
-</div>
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 
@@ -508,9 +340,11 @@ Medical Imaging • Predictive Analytics
 
 ### 🚀 **MISSION STATEMENT**
 
-> *"In a world where data is the new oil, I'm here to refine it into intelligent fuel that powers the future. Every line of code I write, every model I train, and every problem I solve brings us one step closer to a more intelligent world."*
-
 </div>
+
+<p align="justify">
+<i>"In a world where data is the new oil, I'm here to refine it into intelligent fuel that powers the future. Every line of code I write, every model I train, and every problem I solve brings us one step closer to a more intelligent world."</i>
+</p>
 
 ---
 
