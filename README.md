@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-[![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=42F7C0&center=true&vCenter=true&width=1000&lines=import+tensorflow+as+AI;AI+Engineer+%7C+Machine+Learning+Specialist;model.fit(data%2C+labels);Transforming+Data+into+Intelligence;print(%22Building+the+Future+with+AI%22))](https://git.io/typing-svg)
+[![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=42F7C0&center=true&vCenter=true&width=1000&lines=print(%22Welcome+to+the+AI+Revolution%22);AI+Engineer+%7C+Machine+Learning+Specialist;def+create_future():+return+AI();404+Sleep+Not+Found;echo+%22Code.+Sleep.+Repeat.%22)](https://git.io/typing-svg)
 
 </div>
 
