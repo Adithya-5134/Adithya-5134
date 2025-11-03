@@ -6,46 +6,70 @@
 
 [![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=42F7C0&center=true&vCenter=true&width=1000&lines=System.out.println(%22Welcome+to+the+Matrix%22);AI+Engineer+%7C+Machine+Learning+Specialist;def+create_future():+return+AI();404+Sleep+Not+Found;echo+%22Code.+Sleep.+Repeat.%22)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-## 👨‍💻 ABOUT ME
+---
+
+<div align="center">
+
+## 👨‍💻 **ABOUT ME**
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFoYjNmdm00Y2E5eXJnemxmb2VtbDdrcHVlcDh5cmlhZ2M4dG0yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" height="300" alt="AI Robot"/>
 
-<br>
+### 🚀 **QUICK ACCESS**
 
-### 🚀 QUICK ACCESS
+</div>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Live_Demo-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://adithya-5134.github.io/)
 [![Resume](https://img.shields.io/badge/📋_Resume-Download-F7931E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1N_1Niui7pEsERuYNg33dgUYqyWqgFsBs/view?usp=sharing)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ecadithya12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ai/)
 
-<br>
+</div>
 
-### 🎯 PROFESSIONAL SUMMARY
+<div align="center">
+
+### 🎯 **PROFESSIONAL SUMMARY**
+
+</div>
+
+<div align="center">
 
 AI Engineer with hands-on experience in designing **deep learning** and **LLM-based solutions** for computer vision, natural language processing (NLP), and medical imaging.
+
+</div>
+
+<div align="center">
 
 🔹 Skilled in deploying production-ready models on **AWS** using **Docker**  
 🔹 Passionate about developing **RAG-powered AI chatbots**  
 🔹 Focus on context-aware and impactful real-world solutions
 
-<br>
+</div>
+
+<div align="center">
 
 **📍 Location:** Chennai, Tamil Nadu, India  
 **🎓 Education:** B.E. Computer Science  
 **📞 Contact:** +91 9840530457
 
-<br>
+</div>
 
 ---
 
-## 🧠 AI ARSENAL & TECH STACK
+<div align="center">
 
-### 🛠️ TECHNOLOGY MATRIX
+## 🧠 **AI ARSENAL & TECH STACK**
 
-#### 💻 LANGUAGES & VERSION CONTROL
+### 🛠️ **TECHNOLOGY MATRIX**
+
+#### 💻 **LANGUAGES & VERSION CONTROL**
+
+</div>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,7 +77,15 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🤖 ML/DL FRAMEWORKS
+</div>
+
+<div align="center">
+
+#### 🤖 **ML/DL FRAMEWORKS**
+
+</div>
+
+<div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -67,20 +99,44 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-#### ☁️ CLOUD & DEPLOYMENT
+</div>
+
+<div align="center">
+
+#### ☁️ **CLOUD & DEPLOYMENT**
+
+</div>
+
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🛢️ DATABASES
+</div>
+
+<div align="center">
+
+#### 🛢️ **DATABASES**
+
+</div>
+
+<div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-#### 📊 DATA VISUALIZATION & TOOLS
+</div>
+
+<div align="center">
+
+#### 📊 **DATA VISUALIZATION & TOOLS**
+
+</div>
+
+<div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -88,7 +144,15 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### 🎯 SPECIALIZATIONS
+</div>
+
+<div align="center">
+
+#### 🎯 **SPECIALIZATIONS**
+
+</div>
+
+<div align="center">
 
 Computer Vision • Image Classification • Object Detection  
 Natural Language Processing • LLMs • BERT • GPT  
@@ -97,11 +161,17 @@ Deep Learning • Neural Networks • Transfer Learning
 Encoder-Decoder Architectures • Transformers  
 Medical Imaging • Predictive Analytics
 
-<br>
+</div>
 
 ---
 
-### 🎖️ CERTIFICATION ACHIEVEMENTS
+<div align="center">
+
+### 🎖️ **CERTIFICATION ACHIEVEMENTS**
+
+</div>
+
+<div align="center">
 
 [![IBM AI Engineering](https://img.shields.io/badge/IBM-AI_Engineering_Specialization-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](#)
 [![IABAC AI Expert](https://img.shields.io/badge/IABAC-AI_Expert-00D9FF?style=for-the-badge&logo=brain&logoColor=white)](#)
@@ -113,11 +183,17 @@ Medical Imaging • Predictive Analytics
 
 [![GUVI DevOps](https://img.shields.io/badge/GUVI-DevOps-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
-<br>
+</div>
 
 ---
 
-## 📊 GITHUB INTELLIGENCE DASHBOARD
+<div align="center">
+
+## 📊 **GITHUB INTELLIGENCE DASHBOARD**
+
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
@@ -131,44 +207,70 @@ Medical Imaging • Predictive Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-5134&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35" alt="GitHub Streak"/>
 </picture>
 
-<br>
+</div>
 
 ---
 
-## 🚀 PROJECT SHOWCASE: AI IN ACTION
+<div align="center">
 
-### 🏆 FEATURED AI PROJECTS
+## 🚀 **PROJECT SHOWCASE: AI IN ACTION**
 
-<br>
+### 🏆 **FEATURED AI PROJECTS**
 
-### 🤖 1. Multiformat Document Chatbot
+</div>
+
+<div align="center">
+
+### 🤖 **1. Multiformat Document Chatbot**
 
 **AI-powered document assistant with multi-format support**
 
 **Tech Stack:** Python • LangChain • Streamlit • HuggingFace • LLaMA-3.3 • ChromaDB
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 📄 Multi-format support (PDF, Word, Excel, PPT, Text, HTML, CSV)  
 🧠 Context-aware responses using RAG  
 🔍 Optional CrossEncoder re-ranking (cross-encoder/ms-marco-MiniLM-L-6-v2)  
 ⚡ Real-time document processing with HuggingFaceEmbeddings
 
+</div>
+
+<div align="center">
+
 **Status:** ✅ Production Ready
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Multi-Format-Doc-Chat)
 
-<br>
+</div>
 
 ---
 
-### 🚦 2. Traffic Sign Detection
+<div align="center">
+
+### 🚦 **2. Traffic Sign Detection**
 
 **CNN-based traffic sign classifier with full CI/CD pipeline**
 
 **Tech Stack:** TensorFlow • Keras • FastAPI • Docker • AWS (EC2/ECR) • GitHub Actions
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 🎯 43-class traffic sign classification (GTSRB Dataset)  
 🔄 Automated CI/CD with GitHub Actions  
@@ -177,22 +279,36 @@ Medical Imaging • Predictive Analytics
 ⚡ REST API integration with FastAPI  
 🧪 PyTest testing & Flake8 linting
 
+</div>
+
+<div align="center">
+
 **Performance:** Accuracy: **97.2%** | Loss: **0.13**  
 **Status:** ✅ Deployed on AWS
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Traffic-Sign-Detection)
 
-<br>
+</div>
 
 ---
 
-### 👁️ 3. Retinopathy Detection System
+<div align="center">
+
+### 👁️ **3. Retinopathy Detection System**
 
 **CNN-based diabetic retinopathy detection for medical imaging**
 
 **Tech Stack:** Python • TensorFlow • CNNs • FastAPI • Docker • AWS EC2
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 🏥 Medical-grade accuracy for retinopathy detection  
 🔄 Data augmentation (rotation, zoom, brightness adjustment)  
@@ -201,84 +317,136 @@ Medical Imaging • Predictive Analytics
 🐳 Dockerized FastAPI deployment  
 ☁️ Real-time inference on AWS EC2 with monitoring
 
+</div>
+
+<div align="center">
+
 **Performance:** Accuracy: **84%** | Loss: **0.41**  
 **Status:** ✅ Deployed on AWS
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Retinopathy-Detection)
 
-<br>
+</div>
 
 ---
 
-### 🫁 4. Pneumonia Detection
+<div align="center">
+
+### 🫁 **4. Pneumonia Detection**
 
 **Medical AI for pneumonia detection from chest X-rays**
 
 **Tech Stack:** Python • TensorFlow • Keras • CNNs • Medical Imaging
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 🏥 CNN-based image classification for chest X-rays  
 📊 Advanced preprocessing and augmentation techniques  
 ⚖️ Dataset balancing to handle class imbalance  
 🔬 Reliable and scalable medical image analysis
 
+</div>
+
+<div align="center">
+
 **Performance:** Accuracy: **90.38%** | Loss: **0.27**  
 **Status:** ✅ Research Complete
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Pneumonia-Detection)
 
-<br>
+</div>
 
 ---
 
-### 🤟 5. Indian Sign Language Detection
+<div align="center">
+
+### 🤟 **5. Indian Sign Language Detection**
 
 **CNN for Indian Sign Language alphabet recognition**
 
 **Tech Stack:** Python • TensorFlow • Keras • Computer Vision
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 🎯 Alphabet gesture classification  
 🔄 Advanced data augmentation (rotation, zoom)  
 📊 High generalization performance  
 🤖 Reliable gesture recognition system
 
+</div>
+
+<div align="center">
+
 **Performance:** Accuracy: **98.04%** | Loss: **0.06**  
 **Status:** ✅ Model Optimized
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Indian-Sign_language-Detection)
 
-<br>
+</div>
 
 ---
 
-### 😴 6. Driver Drowsiness Detection
+<div align="center">
+
+### 😴 **6. Driver Drowsiness Detection**
 
 **Real-time driver fatigue monitoring system**
 
 **Tech Stack:** Python • OpenCV • Dlib • Computer Vision
 
+</div>
+
+<div align="center">
+
 **Key Features:**
+
+</div>
+
+<div align="center">
 
 👁️ Eye aspect ratio (EAR) monitoring  
 🥱 Yawn detection algorithm  
 🔊 Real-time audio alerts  
 ⚡ Live video processing with facial landmarks
 
+</div>
+
+<div align="center">
+
 **Status:** ✅ Deployment Ready
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Driver-Drowsiness-Detection)
 
-<br>
+</div>
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+<div align="center">
 
-### 🏢 AI Internship | Rubixe AI Solutions, Bengaluru
+## 💼 **PROFESSIONAL EXPERIENCE**
+
+### 🏢 **AI Internship** | Rubixe AI Solutions, Bengaluru
 **Oct 2024 – July 2025**
+
+</div>
+
+<div align="center">
 
 ✅ Built CNN-based retinopathy detection model achieving **84% accuracy** and **0.41 test loss**  
 ✅ Applied dropout, batch normalization, and hyperparameter tuning for improved reliability  
@@ -286,51 +454,71 @@ Medical Imaging • Predictive Analytics
 ✅ Containerized solution with **Docker** for scalable real-time inference  
 ✅ Performed data cleaning, balancing, and augmentation (rotation, zoom, brightness) for better generalization
 
-<br>
+</div>
 
 ---
 
-## 🌐 CONNECT WITH THE AI ENGINEER
+<div align="center">
 
-### 💡 "Transforming ideas into intelligent solutions, one algorithm at a time"
+## 🌐 **CONNECT WITH THE AI ENGINEER**
+
+### 💡 **"Transforming ideas into intelligent solutions, one algorithm at a time"**
+
+</div>
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-Let's_Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecadithya12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ai/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithya-5134)
 [![Phone](https://img.shields.io/badge/📱_Phone-Direct_Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919840530457)
 
-<br>
+</div>
 
-### 🏆 GITHUB ACHIEVEMENTS
+<div align="center">
+
+### 🏆 **GITHUB ACHIEVEMENTS**
+
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Adithya-5134&theme=synthwave&no-frame=true&no-bg=true&margin-w=4">
   <img src="https://github-profile-trophy.vercel.app/?username=Adithya-5134&theme=synthwave&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </picture>
 
-<br>
+</div>
 
-### 🐍 CONTRIBUTION SNAKE
+<div align="center">
+
+### 🐍 **CONTRIBUTION SNAKE**
+
+</div>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
 
-<br>
+</div>
 
 ---
 
-### 🚀 MISSION STATEMENT
+<div align="center">
+
+### 🚀 **MISSION STATEMENT**
 
 > *"In a world where data is the new oil, I'm here to refine it into intelligent fuel that powers the future. Every line of code I write, every model I train, and every problem I solve brings us one step closer to a more intelligent world."*
 
-<br>
+</div>
 
 ---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Adithya-5134&label=AI%20Systems%20Accessed&color=00FF41&style=for-the-badge" alt="Profile Views" />
 
 **⚡ Ready to revolutionize the world with AI? Let's build the future together! ⚡**
-
-<br>
 
 <sub>🤖 *Engineered with precision • Powered by artificial intelligence • Built for the future* 🤖</sub>
 
