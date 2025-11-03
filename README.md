@@ -128,26 +128,6 @@ AI Engineer with hands-on experience in designing <b>deep learning</b> and <b>LL
 
 <div align="center">
 
-## 📊 **GITHUB INTELLIGENCE DASHBOARD**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages"/>
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-5134&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-5134&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35" alt="GitHub Streak"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 **PROJECT SHOWCASE: AI IN ACTION**
 
 ### 🏆 **FEATURED AI PROJECTS**
@@ -271,6 +251,26 @@ AI Engineer with hands-on experience in designing <b>deep learning</b> and <b>LL
 **Status:** ✅ Model Optimized
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Indian-Sign_language-Detection)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GITHUB INTELLIGENCE DASHBOARD**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-5134&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages"/>
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-5134&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya-5134&theme=synthwave&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FF6B35" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
