@@ -33,8 +33,10 @@ AI Engineer with hands-on experience in designing <b>deep learning</b> and <b>LL
 
 <div align="center">
 
-**📍 Location:** Chennai, Tamil Nadu, India  
-**🎓 Education:** B.E. Computer Science  
+**📍 Location:** Chennai, Tamil Nadu, India
+
+**🎓 Education:** B.E. Computer Science
+
 **📞 Contact:** +91 9840530457
 
 </div>
@@ -92,12 +94,15 @@ AI Engineer with hands-on experience in designing <b>deep learning</b> and <b>LL
 
 #### 🎯 **SPECIALIZATIONS**
 
-Computer Vision • Image Classification • Object Detection  
-Natural Language Processing • LLMs • BERT • GPT  
-Retrieval-Augmented Generation (RAG)  
-Deep Learning • Neural Networks • Transfer Learning  
-Encoder-Decoder Architectures • Transformers  
-Medical Imaging • Predictive Analytics
+**Machine Learning** • **Computer Vision** • **Image Classification** • **Object Detection**
+
+**Natural Language Processing** • **LLMs** • **BERT** • **GPT**
+
+**Retrieval-Augmented Generation (RAG)** • **Deep Learning** • **Neural Networks**
+
+**Transfer Learning** • **Encoder-Decoder Architectures** • **Transformers**
+
+**Medical Imaging** • **Predictive Analytics**
 
 </div>
 
@@ -268,45 +273,6 @@ Medical Imaging • Predictive Analytics
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Indian-Sign_language-Detection)
 
 </div>
-
----
-
-<div align="center">
-
-### 😴 **6. Driver Drowsiness Detection**
-
-**Real-time driver fatigue monitoring system**
-
-**Tech Stack:** Python • OpenCV • Dlib • Computer Vision
-
-</div>
-
-<p align="justify">
-<b>Key Features:</b> Real-time monitoring system utilizing Eye Aspect Ratio (EAR) measurement for drowsiness detection. Features advanced yawn detection algorithm to identify fatigue indicators. Implements real-time audio alert system to warn drivers of dangerous drowsiness levels. Utilizes live video processing with facial landmark detection for accurate and responsive monitoring in real-world driving conditions.
-</p>
-
-<div align="center">
-
-**Status:** ✅ Deployment Ready
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Adithya-5134/Driver-Drowsiness-Detection)
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 **PROFESSIONAL EXPERIENCE**
-
-### 🏢 **AI Internship** | Rubixe AI Solutions, Bengaluru
-**Oct 2024 – July 2025**
-
-</div>
-
-<p align="justify">
-Developed and deployed a CNN-based retinopathy detection model achieving 84% accuracy with 0.41 test loss. Applied advanced regularization techniques including dropout and batch normalization, along with comprehensive hyperparameter tuning for improved model reliability. Successfully deployed the model on AWS EC2 using FastAPI with full REST API integration. Containerized the entire solution using Docker for scalable real-time inference. Performed extensive data preprocessing including cleaning, balancing, and augmentation techniques such as rotation, zoom, and brightness adjustment to improve model generalization capabilities.
-</p>
 
 ---
 
