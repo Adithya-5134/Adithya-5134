@@ -35,7 +35,7 @@ AI Engineer with hands-on experience in designing **deep learning** and **LLM-ba
 🔹 Focus on context-aware and impactful real-world solutions
 
 **📍 Location:** Chennai, Tamil Nadu, India  
-**🎓 Education:** B.E. Computer Science (CGPA: 8.23)  
+**🎓 Education:** B.E. Computer Science 
 **📞 Contact:** +91 9840530457
 
 ---
